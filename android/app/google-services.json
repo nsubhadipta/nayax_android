@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229083602666",
+    "project_id": "pnandroid-4264e",
+    "storage_bucket": "pnandroid-4264e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229083602666:android:59b00cc019b742c5b60193",
+        "android_client_info": {
+          "package_name": "com.example.osodha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229083602666-a0pt0891g4nqokep2h8ktq55asdh2mp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAni3N1ZZCtWLoD016BVvsaD6ZfwXpcD88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229083602666-a0pt0891g4nqokep2h8ktq55asdh2mp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
